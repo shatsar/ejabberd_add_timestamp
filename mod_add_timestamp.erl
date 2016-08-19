@@ -2,6 +2,7 @@
 -module(mod_add_timestamp).
 
 -author("Johan Vorster").
+-author("Michele Zonca").
 
 %% Every ejabberd module implements the gen_mod behavior
 %% The gen_mod behavior requires two functions: start/2 and stop/1
